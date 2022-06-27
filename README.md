@@ -6,7 +6,15 @@ The purpose of this analysis was to look at the weather patterns of a specific l
 
 
 ### There is a bulleted list that addresses the three key differences in weather between June and December.
-- 
+
+June
+https://github.com/lauren1478/surfs_up/blob/main/june%20weather.png
+
+December
+[alt text]!ttps://github.com/lauren1478/surfs_up/blob/main/december%20weather.png
+
+
+
 
 Summary:
 
