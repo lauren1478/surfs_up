@@ -2,10 +2,12 @@
 
 ### Overview of the statistical analysis:
 
-The purpose of the analysis is well defined. (3 pt)
-Results:
+The purpose of this analysis was to look at the weather patterns of a specific location on Oahu where we would like to build a surf and ice cream shop, because both surfing and ice cream demand are dependent on weather.  Specifically, we are looking at temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. We are able to do this by connecting to SQLite, SQLAlchemy, and Flask to process the data and show the results. 
 
-### There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+
+### There is a bulleted list that addresses the three key differences in weather between June and December.
+- 
+
 Summary:
 
 ### There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
