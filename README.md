@@ -7,15 +7,22 @@ The purpose of this analysis was to look at the weather patterns of a specific l
 
 ### There is a bulleted list that addresses the three key differences in weather between June and December.
 
+- The average temperature in December is only about four degrees cooler than the average temperature in June. 
+- The minimum temperatures between December and June reflect the biggest difference of just eight degrees.
+- The max temperatures between December and June are just two degrees different - the max temp in December of 83 degrees is greather than 75% of all temperatures in June. This shows that the higher temperatures of December reflect the majority of June.
+
 June
-https://github.com/lauren1478/surfs_up/blob/main/june%20weather.png
+
+![alt text](https://github.com/lauren1478/surfs_up/blob/main/june%20weather.png)
+
 
 December
-[alt text]!ttps://github.com/lauren1478/surfs_up/blob/main/december%20weather.png
 
-
-
+![alt text](https://github.com/lauren1478/surfs_up/blob/main/december%20weather.png)
 
 Summary:
 
-### There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+### There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+The difference in temperatures between June and December are minimal to the point that they are so similar, that after factoring the standard devidation one could experience days with the same temperatures in each month- with the average temperatures being only a four degree difference and the standard deviation being 3.5 to 3.7 degrees. Through this data, it does not seem likely that the temperature will have a great effect on the demand for surfing and eating ice cream. 
+
+However, surfing is very dependent on not only temperature, but also wind and rain. We should run analysis on wind gusts and patterns, and also the historical chances of rain during each day of both months. Hawaii does encounter hurricanes so this data analysis could ake into account hurrican season. All this data is important to research because surfing and eating ice cream are in demand when the weather is warm and dry.
